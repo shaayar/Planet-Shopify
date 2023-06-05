@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed&display=swap');
+
+form label {
+    font-size: 18px;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+#ins {
+    font-family: 'Roboto Condensed', sans-serif;
+    justify-self: center;
+    padding-left: 2rem;
+}

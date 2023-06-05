@@ -124,7 +124,25 @@
     .items {
         width: 550px;
     }
+
+    #navText {
+        display:none;
+    }
 }
+
+/* try code */
+/* @media (max-width:480px) {
+    input.searchbar {
+        display: none;
+    }
+}
+
+@media (min-width:481px) {
+    input.searchbar {
+        display:block;
+    }
+} */
+/* ends */
 
 @media screen and (max-width: 400px) {
     .recent-Articles {

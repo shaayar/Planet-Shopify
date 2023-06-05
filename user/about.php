@@ -11,7 +11,7 @@ session_start();
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <title>Planet Shopify | Online Shopping Site </title>
+  <title>Planet Shopify | Online Shopping Site for Men</title>
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css">
   <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
   <link href='https://fonts.googleapis.com/css?family=Delius Swash Caps' rel='stylesheet'>
@@ -31,7 +31,15 @@ session_start();
           <img
             src="https://images.unsplash.com/photo-1490578474895-699cd4e2cf59?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=600&h=400&q=80"
             class="img-fluid d-block rounded mx-auto image-thumbnail">
-          <p class="mt-2">Thank you for your interest in our e-commerce website development team. We are a team of experienced professionals, including software engineers, web developers, and database administrators, who specialize in creating custom e-commerce solutions for online businesses. Our services include everything from custom website design and development, to database integration and maintenance, to e-commerce marketing and analytics. We work with businesses of all sizes and can tailor our services to meet their unique needs. We have a long history of success in helping clients build successful online stores, and are committed to providing excellent customer service and support. If you have any questions or would like to learn more about our services, please do not hesitate to contact us. We look forward to working with you!</p>
+          <p class="mt-2">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sed atque, consequuntur cumque odit
+            sapiente blanditiis, expedita ipsam molestiae voluptates reprehenderit ea modi eaque rerum dicta dolores,
+            iusto ullam aliquid non?
+            Quidem quae odio nemo cumque consectetur natus doloremque voluptatem consequatur voluptate laboriosam, amet
+            maiores excepturi sunt aliquid magni voluptatibus aperiam laudantium dolores reiciendis? Laborum laboriosam,
+            nam ullam totam amet et.
+            Earum recusandae voluptate accusantium, placeat alias consequuntur aspernatur sed explicabo impedit et aut
+            assumenda hic repellendus esse facere ratione quod vitae laudantium. Obcaecati nobis sequi esse assumenda,
+            rerum dolores pariatur.</p>
         </div>
         <div class="col-md-5 mt-3">
           <span class="text-warning pt-3">
@@ -39,13 +47,19 @@ session_start();
             <h3>24 hours|7 days a week| 365 days a year Live Technical Support</h3>
           </span>
           <hr>
+          <p>It is a long established fact that a reader will be distracted by the readable content of a page when
+            looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of
+            letters. There are many variations of passages of Lorel Ipsum available, but the majority have suffered
+            alteration in some form, by injected humour, or randomised words which don't look even slightly believable.
+            If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing
+            hidden in the middle of text.
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat nam ducimus a illum, at voluptate, iusto
+            eos tempora in quam exercitationem officia autem maxime deserunt. Reprehenderit necessitatibus sequi in
+            fugit? Lorem ipsum dolor sit, amet consectetur adipisicing elit. Magni, facilis. Reiciendis dicta fuga esse
+            at excepturi inventore perferendis? Consequatur dicta blanditiis, magnam consequuntur possimus excepturi
+            eaque neque nulla libero temporibus!
+          </p>
 
-          <span class="text-warning">
-            <h1 class="title">About Planet Shopify</h1>
-          </span>
-            <p class="mt-2">
-            Planet Shopify is an advanced e-commerce software that helps businesses create and manages the online store. It is easy to use and provides a comprehensive range of features and tools to help users create the perfect online store. With Planet Shopify, users have access to powerful features such as customizable product catalogs, inventory management, order tracking, marketing tools, and more. With its advanced features, Planet Shopify makes it easy for businesses to create and manage their online store with ease. It also provides detailed analytics and reporting, allowing users to track their store’s performance. Planet Shopify also offers a wide range of payment processing options, making it easy for customers to purchase products from the store.
-            </p>
         </div>
       </div>
     </div>
